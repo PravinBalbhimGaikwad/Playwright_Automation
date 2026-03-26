@@ -15,3 +15,4 @@ test('page context browser', await ({page})==>
      {
  Page.goto('https://www.google.com');
 }
+);
